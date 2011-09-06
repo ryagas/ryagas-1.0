@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'bundler/setup'
 require 'rack'
+require "rack/jekyll"
 
 # The project root directory
 $root = ::File.dirname(__FILE__)
@@ -32,4 +33,5 @@ end
 use Rack::DirectoryIndex
 
 run Rack::Directory.new($root + '/public')
+run Rack::Jekyll.new
 
