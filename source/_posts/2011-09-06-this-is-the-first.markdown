@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Is the First!"
+title: "This Is the First"
 date: 2011-09-06 01:51
 comments: true
 categories: 
