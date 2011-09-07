@@ -1,0 +1,22 @@
+---
+author: ryan
+date: '2008-08-12 13:23:49'
+layout: post
+slug: success
+status: publish
+title: Success!
+wordpress_id: '56'
+categories:
+- MMORPGs
+- Play
+- World of Warcraft
+---
+
+[![Blizzcon08](http://sharp-eyed.org/wp-content/uploads/2008/08/blizzcon08.png)](http://www.blizzcon.com)
+Now...here's to hoping I can get the time off...
+
+Technorati Tags: [blizzcon](http://www.technorati.com/tag/blizzcon),
+[conventions](http://www.technorati.com/tag/conventions),
+[games](http://www.technorati.com/tag/games),
+[mmorpg](http://www.technorati.com/tag/mmorpg),
+[worldofwarcraft](http://www.technorati.com/tag/worldofwarcraft)

@@ -1,0 +1,20 @@
+---
+author: ryan
+date: '2008-10-07 22:52:51'
+layout: post
+slug: its-on
+status: publish
+title: It's on!!!
+wordpress_id: '184'
+categories:
+- Conventions
+- Personal
+- Play
+tags:
+- announcements
+- awesome
+- blizzcon
+---
+
+Time off from work has been approved. Blizzcon is a go! Oh, yeah. Fall
+has hit this blog as well. Enjoy the colors...
