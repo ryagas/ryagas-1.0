@@ -32,7 +32,7 @@ U.S. think of when somebody mentions anime. His three were:
     Planets](http://en.wikipedia.org/wiki/Battle_of_The_Planets) (aka
     G-Force)
 
-httpv://www.youtube.com/watch?v=FoO5H\_UKCrw
+<iframe width="420" height="345" src="http://www.youtube.com/embed/FoO5H_UKCrw" frameborder="0" allowfullscreen></iframe>
 
 Now, as a kid, I watched all three of these. I actually tried to
 carefully follow Robotech, but I had other childhood pursuits (i.e.
